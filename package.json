@@ -1,0 +1,26 @@
+{
+  "name": "fin-schedule",
+  "version": "1.0.3",
+  "description": "Financial Schedule Tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agilk/fin-schedule-npm-package-.git"
+  },
+  "keywords": [
+    "finance",
+    "schedule"
+  ],
+  "author": "Agil Kerimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agilk/fin-schedule-npm-package-/issues"
+  },
+  "homepage": "https://github.com/agilk/fin-schedule-npm-package-#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
